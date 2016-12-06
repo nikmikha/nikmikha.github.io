@@ -1,0 +1,36 @@
+.box1{
+background-image:url("http://assets.internationalchampionscup.com/uploads/photo/file/503/large_rm_website-1458571707.png");
+float: left;
+width: 250px;
+height: 200px;
+margin: 10px;
+border: 5px solid red;
+background-position: 50%, 50%;
+background-size: cover;
+padding-top: 2px black;
+border-color: white;
+}
+
+#team{
+	float: left;
+}
+
+#results{
+	float: right;
+}
+
+.box2{
+float: right;
+background-image:url("http://theartmad.com/wp-content/uploads/2015/05/Real-Madrid-Wallpaper-2014-IPhone-10.jpg");
+width: 250px;
+height: 500px;
+margin: 10px;
+border: 5px solid red;
+background-position: 50%, 50%;
+background-size: cover;
+padding-top: 2px black;
+border-color: white;
+background-color: white;
+color: black;
+font-size: 25px;
+}
