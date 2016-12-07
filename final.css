@@ -1,8 +1,8 @@
 .box1{
 background-image:url("http://assets.internationalchampionscup.com/uploads/photo/file/503/large_rm_website-1458571707.png");
 float: left;
-width: 250px;
-height: 200px;
+width: 400px;
+height: 300px;
 margin: 10px;
 border: 5px solid red;
 background-position: 50%, 50%;
@@ -19,9 +19,16 @@ border-color: white;
 	float: right;
 }
 
+a:visited{
+	color: black;
+}
+
+
+
+
 .box2{
 float: right;
-background-image:url("http://theartmad.com/wp-content/uploads/2015/05/Real-Madrid-Wallpaper-2014-IPhone-10.jpg");
+background-image:url("http://www.chelseafc.com/content/cfc/en/ref/clubs/other/real-madrid.altimg.png");
 width: 250px;
 height: 500px;
 margin: 10px;
@@ -31,6 +38,21 @@ background-size: cover;
 padding-top: 2px black;
 border-color: white;
 background-color: white;
+color: black;
+font-size: 25px;
+}
+
+.box4{
+float: right;
+width: 550px;
+height: 170px;
+margin: 10px;
+border: 5px solid red;
+background-position: 50%, 50%;
+background-size: cover;
+padding-top: 2px black;
+border-color: white;
+
 color: black;
 font-size: 25px;
 }
